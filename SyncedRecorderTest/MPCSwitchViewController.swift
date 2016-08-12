@@ -11,7 +11,7 @@ import MultipeerConnectivity
 import AVFoundation
 import AudioKit
 
-var hostMode = true
+var hostMode = false
 
 var machineTime = Double(NSDate.timeIntervalSinceReferenceDate() / 1000)
 
